@@ -1,4 +1,4 @@
-"# portfolio_website_HTML_CSS"
+## portfolio_website_HTML_CSS
 
 A clean, responsive, and modern multi-page portfolio website built using only **HTML** and **CSS**.  
 Perfect for showcasing your projects, skills, and contact info with a minimal yet professional design.
@@ -7,13 +7,13 @@ Perfect for showcasing your projects, skills, and contact info with a minimal ye
 
 ## 📁 Project Structure
 
-portfolio-website/
-├── index.html # Homepage with hero section
-├── about.html # About Me page
-├── projects.html # Projects listing page
-├── contact.html # Contact form page
-└── css/
-└── style.css # Shared CSS styles
+    portfolio-website/
+    ├── index.html # Homepage with hero section
+    ├── about.html # About Me page
+    ├── projects.html # Projects listing page
+    ├── contact.html # Contact form page
+    └── css/
+    └── style.css # Shared CSS styles
 
 ---
 
